@@ -1,6 +1,8 @@
-## 👋 Hi there, I'm Kristin
+## <h1 align="center">👋 Hi there, I'm Kristin</h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3332F7&width=435&lines=Passionate+bioinformatician;Data-driven+discovery+in+biology+;Nextflow%2C+Docker%2C+repeat;Protein%2C+pipeline%2C+publish;Reproducible+research+advocate+)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3332F7&width=480&lines=Passionate+bioinformatician;Data-driven+discovery+in+biology+;Nextflow%2C+Docker%2C+repeat;Protein%2C+pipeline%2C+publish;Reproducible+research+advocate" alt="Typing SVG" />
+</div>
 
 ---
 
