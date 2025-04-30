@@ -55,7 +55,7 @@ Currently, I work in the **Kong Lab at Emory University**, engineering AAV9 and 
 ## 📫 Get in Touch
 
 📧 [kekeith41@gmail.com](mailto:kekeith41@gmail.com)  
-🔗 [LinkedIn (https://www.linkedin.com/in/kristin-keith-103211206)]  
+🔗 [LinkedIn](https://www.linkedin.com/in/kristin-keith-103211206)  
 
 <!--
 **binfwizard/binfwizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
