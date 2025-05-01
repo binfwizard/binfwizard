@@ -16,7 +16,7 @@
 
 I’m a computational biologist passionate about bridging wet-lab experimentation with high-performance bioinformatics workflows. With experience in both academic and industry settings, my work focuses on viral protein engineering, genomics analysis, and reproducibility in computational pipelines.
 
-Currently, I work in the **Kong Lab at Emory University**, engineering AAV9 and HIV-1 capsid proteins for improved transduction and vaccine design.
+Currently, I work in the **Kong Lab at Emory University**, engineering AAV9 and HIV-1 capsid proteins for improved tissue transduction and vaccine design.
 
 ---
 
