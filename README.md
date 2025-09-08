@@ -8,7 +8,7 @@
 
 🎓 MS Bioinformatics @ Georgia Tech | BS Applied Biotechnology @ UGA  
 🔬 Computational Virology | Genomics | Machine Learning  
-📍 Based in Atlanta, GA | 🌐 [Email Me](mailto:kekeith41@gmail.com)
+📍 Based in Atlanta, GA | 🌐 [Email Me](mailto:kkeith9@gatech.edu)
 
 ---
 
@@ -22,7 +22,7 @@ Currently, I work in the **Kong Lab at Emory University**, engineering AAV9 and 
 
 ## 💻 Technical Skills
 
-**Languages:** Python, R, Bash, SQL, MATLAB 
+**Languages:** Python, R, Bash, SQL, Git; familiar with JavaScript and HTML 
 
 **Tools:** Nextflow, Docker, Git, AlphaFold 2, Rosetta, PyTorch, TensorFlow, PyMOL, SnapGene, Geneious 
 
@@ -34,11 +34,14 @@ Currently, I work in the **Kong Lab at Emory University**, engineering AAV9 and 
 
 ## 🧠 Coursework Highlights
 
+- Data and Visual Analytics
+- Machine Learning
 - Computational Genomics
+- Algorithms for Bioinformatics
 - Genomics & Applied Bioinformatics
-- Machine Learning in Computational Biology
 - Experimental Design & Statistical Methods
 - Programming for Bioinformatics
+- Biological Data Science
 - Database Systems
 
 ---
@@ -54,7 +57,7 @@ Currently, I work in the **Kong Lab at Emory University**, engineering AAV9 and 
 
 ## 📫 Get in Touch
 
-📧 [kekeith41@gmail.com](mailto:kekeith41@gmail.com)  
+📧 [kkeith9@gatech.edu](mailto:kkeith9@gatech.edu)  
 🔗 [LinkedIn](https://www.linkedin.com/in/kristin-keith-103211206)  
 
 <!--
