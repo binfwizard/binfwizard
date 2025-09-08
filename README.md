@@ -24,7 +24,7 @@ Currently, I work in the **Kong Lab at Emory University**, engineering AAV9 and 
 
 **Languages:** Python, R, Bash, SQL, Git; familiar with JavaScript and HTML 
 
-**Tools:** Nextflow, Docker, Git, AlphaFold 2, Rosetta, PyTorch, TensorFlow, PyMOL, SnapGene, Geneious 
+**Tools:** Nextflow, Docker, Snakemake, AWS, GitHub, AlphaFold 2, Rosetta, PyTorch, TensorFlow, PyMOL, SnapGene, Geneious 
 
 **Formats:** FASTQ, VCF, BAM, PDB 
 
