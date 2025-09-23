@@ -46,15 +46,6 @@ Currently, I work in the **Kong Lab at Emory University**, engineering AAV9 and 
 
 ---
 
-## 📌 Interests
-
-- Gene therapy and vaccine design 
-- ML for protein function prediction  
-- Genomics pipeline design and optimization  
-- Scientific writing and outreach
-
----
-
 ## 📫 Get in Touch
 
 📧 [kkeith9@gatech.edu](mailto:kkeith9@gatech.edu)  
